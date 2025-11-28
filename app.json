@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "MrWhiteMobile",
+    "name": "Mr White",
     "slug": "MrWhiteMobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,20 +10,27 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#7E1532"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mrwhite.footballgame"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#7E1532"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.mrwhite.footballgame"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "41129028-d4bb-4aea-af24-4f167a0621ab"
+      }
     }
   }
 }
