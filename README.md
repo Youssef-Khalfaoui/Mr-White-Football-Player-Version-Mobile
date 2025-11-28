@@ -6,23 +6,23 @@ A party guessing game: every guest sees the same football player except the one 
 
 **Enter Number Of Player**
 
-![Enter Number Of Player](assets/img3.png)
+![Enter Number Of Player](assets/img1.jpeg)
 
 **Enter Names**
 
-![Enter Names](assets/img2.png)
+![Enter Names](assets/img2.jpeg)
 
 **Card**
 
-![Card](assets/img1.png)
+![Card](assets/img3.jpeg)
 
 **Vote**
 
-![Vote](assets/img5.png)
+![Vote](assets/img4.jpeg)
 
 **Results**
 
-![Results](assets/img4.png)
+![Results](assets/img5.jpeg)
 
 ## 🛠️ Tech Stack
 
